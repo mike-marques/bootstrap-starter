@@ -28,8 +28,8 @@ To practice using **Bootstrap** to create responsive layouts, components, and st
 ## 🔗 Visualização / Live Preview
 
 Acesse o site pronto aqui:  
-**Português:** [Clique aqui para visualizar](LINK_DO_SITE)  
-**English:** [Click here to view](LINK_DO_SITE)
+**Português:** [Clique aqui para visualizar](https://mike-marques.github.io/bootstrap-starter/)  
+**English:** [Click here to view](https://mike-marques.github.io/bootstrap-starter/)
 
 ---
 
