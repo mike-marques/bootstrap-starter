@@ -22,7 +22,7 @@ To practice using **Bootstrap** to create responsive layouts, components, and st
 - 🌐 **HTML5**
 - 🎨 **CSS3**
 - ⚡ **Bootstrap 5**
-- 
+  
 ---
 
 ## 🔗 Visualização / Live Preview
